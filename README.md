@@ -50,8 +50,11 @@ The enhanced output is displayed in the UI and can be downloaded.
 **Python 3.8+**
 
 Install required packages:
+
 streamlit numpy opencv-python pillow matplotlib
+
 Using pip:
+
 pip install streamlit numpy opencv-python pillow matplotlib
 
 ---
