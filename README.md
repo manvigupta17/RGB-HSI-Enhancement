@@ -81,6 +81,7 @@ This opens the UI in your browser at:
 ---
 
 ## 📁 Suggested File Structure
+
 project-folder/
 │
 ├── app.py
