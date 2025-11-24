@@ -84,11 +84,11 @@ This opens the UI in your browser at:
 
 project-folder/
 
-app.py
+ - app.py
 
-enhanced_output/
+ - enhanced_output/
 
-README.txt
+ - README.txt
 
 ---
 
