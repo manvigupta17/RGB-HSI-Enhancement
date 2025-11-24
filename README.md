@@ -83,10 +83,12 @@ This opens the UI in your browser at:
 ## 📁 Suggested File Structure
 
 project-folder/
-│
-├── app.py
-├── enhanced_output/
-└── README.md
+
+app.py
+
+enhanced_output/
+
+README.txt
 
 ---
 
